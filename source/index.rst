@@ -11,4 +11,4 @@ Test
    :maxdepth: 2
    :caption: Test
 
-   docs/index.md
+   docs/freeRtos.md
